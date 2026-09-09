@@ -60,16 +60,13 @@ Company marketing site built in Nuxt 3 — dynamic component styling, CMS-driven
 
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak stats" />
-</p>
+
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="[#](https://www.linkedin.com/in/muneeb-iftikhar-381242361/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<<a href="https://www.linkedin.com/in/muneeb-iftikhar-381242361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  
 </p>
