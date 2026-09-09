@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Vue.js / Nuxt 3 | Django / DRF</h3>
 
 <p align="center">
-  BSCS Student @ Islamia University of Bahawalpur • Frontend & Backend Developer @ Tylex Tech
+  BSCS Student @ Islamia University of Bahawalpur • Frontend & Backend Developer 
 </p>
 
 ---
@@ -58,12 +58,7 @@ Company marketing site built in Nuxt 3 — dynamic component styling, CMS-driven
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak stats" />
@@ -74,7 +69,7 @@ Company marketing site built in Nuxt 3 — dynamic component styling, CMS-driven
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[#](https://www.linkedin.com/in/muneeb-iftikhar-381242361/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+ 
 </p>
